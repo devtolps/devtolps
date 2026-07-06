@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Rafael 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=1F3864&center=true&vCenter=true&width=480&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Em+busca+de+est%C3%A1gio+em+T.I;Apaixonado+por+aprender+tecnologia;Ex-atleta+profissional+de+nata%C3%A7%C3%A3o+%F0%9F%8F%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=1F3864&center=true&vCenter=true&width=480&lines=Estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Em+busca+de+est%C3%A1gio+em+T.I;Apaixonado+por+aprender+tecnologia;Ex-atleta+profissional+de+nata%C3%A7%C3%A3o+%F0%9F%8F%8A" alt="Typing SVG" />
 </p>
 
 <p align="center">
