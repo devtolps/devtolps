@@ -21,7 +21,7 @@
 - 🔭 Buscando minha primeira oportunidade como **Estagiário de T.I.**
 - 🌱 Estudando atualmente: **Java, JavaScript, Python e Inteligência Artificial**
 - 🏊 Ex-atleta profissional de natação — trouxe disciplina, foco e trabalho em equipe pro mundo da programação
-- ⚡ Gosto de desafios que me tirem da zona de conforto
+- ⚡ Gosto de desafios que me tirem da zona de conforto.
 - 📍 Mogi das Cruzes, SP — Brasil
 
 ---
@@ -75,6 +75,11 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
     </td>
     <td width="50%" valign="top">
+      <h4>🔥 <a href="https://devtolps.github.io/Inferno-Dante/">Descida — Guia de Leitura do Inferno de Dante</a></h4>
+      <p>Guia interativo canto a canto do Inferno de Dante: resumos, vocabulário, contexto histórico, mapa dos nove círculos e personagens de cada um dos 34 cantos.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Pages-222?style=flat-square&logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
