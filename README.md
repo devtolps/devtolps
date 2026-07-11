@@ -19,7 +19,7 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — conclusão prevista para **07/2027**
 - 🔭 Buscando minha primeira oportunidade como **Estagiário de T.I.**
-- 🌱 Estudando atualmente: **Java, JavaScript, Python e Inteligência Artificial**
+- 🌱 Desenvolvendo aplicações desktop em Java e explorando soluções com Inteligência Artificial**
 - 🏊 Ex-atleta profissional de natação — trouxe disciplina, foco e trabalho em equipe pro mundo da programação
 - ⚡ Gosto de desafios que me tirem da zona de conforto.
 - 📍 Mogi das Cruzes, SP — Brasil
