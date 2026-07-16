@@ -19,9 +19,9 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — conclusão prevista para **07/2027**
 - 🔭 Buscando minha primeira oportunidade como **Estagiário de T.I.**
-- 🌱 Desenvolvendo aplicações desktop em Java e explorando soluções com Inteligência Artificial**
+- 🌱 Estudando atualmente: **Java, JavaScript, Python e Inteligência Artificial**
 - 🏊 Ex-atleta profissional de natação — trouxe disciplina, foco e trabalho em equipe pro mundo da programação
-- ⚡ Gosto de desafios que me tirem da zona de conforto.
+- ⚡ Gosto de desafios, sou competitivo e estudo tecnologia até fora do expediente
 - 📍 Mogi das Cruzes, SP — Brasil
 
 ---
@@ -45,6 +45,36 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4>🔥 <a href="https://devtolps.github.io/Inferno-Dante/">Descida — Guia de Leitura do Inferno de Dante</a></h4>
+      <p>Guia interativo canto a canto do Inferno de Dante: resumos, vocabulário, contexto histórico, mapa dos nove círculos e personagens de cada um dos 34 cantos.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Pages-222?style=flat-square&logo=github&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🥗 <a href="https://devtolps.github.io/Macro-Calculator/nutre-local.html">Nutre — Calculadora de Macros e Metas</a></h4>
+      <p>App web para cálculo de meta calórica e macros conforme o objetivo (emagrecimento, ganho de massa ou manutenção), com biblioteca de alimentos integrada à Open Food Facts, montagem do prato do dia e histórico de cálculos salvos localmente.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧾 <a href="https://github.com/devtolps/IRFacil">IRFacil</a></h4>
+      <p>Interface para auxiliar contadores em atividades do dia a dia.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 <a href="https://devtolps.github.io/Interface-de-Estudos/">Interface de Estudos</a></h4>
+      <p>Sistema pessoal de estudos com notas, flashcards de repetição espaçada, Pomodoro e mapas mentais interativos — funciona direto no navegador, sem instalação.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🧮 <a href="https://github.com/devtolps/CalculadoraSource">CalculadoraSource</a></h4>
       <p>Calculadora funcional de dois dígitos, desenvolvida totalmente em Java.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -55,43 +85,11 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🥗 <a href="https://github.com/devtolps/NutriPlanner">NutriPlanner</a></h4>
-      <p>Aplicação Java com Swing para planejamento nutricional — calcula TMB, calorias, macros e água conforme o objetivo (emagrecimento, ganho de massa ou manutenção).</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Swing-4EA94B?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧾 <a href="https://github.com/devtolps/IRFacil">IRFacil</a></h4>
-      <p>Interface para auxiliar contadores em atividades do dia a dia.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🖥️ <a href="https://github.com/devtolps/Estudo-da-biblioteca-Swing">Estudo-da-biblioteca-Swing</a></h4>
-      <p>Repositório de estudos sobre a biblioteca gráfica Swing em Java.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔥 <a href="https://devtolps.github.io/Inferno-Dante/">Descida — Guia de Leitura do Inferno de Dante</a></h4>
-      <p>Guia interativo canto a canto do Inferno de Dante: resumos, vocabulário, contexto histórico, mapa dos nove círculos e personagens de cada um dos 34 cantos.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub%20Pages-222?style=flat-square&logo=github&logoColor=white" />
-    </td>
-  </tr>
 </table>
 
 ---
 
 ### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devtolps&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtolps&layout=compact&hide_border=true&theme=default" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devtolps&hide_border=true&theme=default" />
